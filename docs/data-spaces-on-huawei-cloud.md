@@ -115,7 +115,7 @@ vast amounts of data securely and quickly.
 And services such as [Data Encryption Workshop](https://www.huaweicloud.com/intl/en-us/product/dew.html) can provide 
 security by encrypting data.
 
-![Data Space on HUAWEI CLOUD](data-spaces-on-huawei-cloud.md)
+![Data Space on HUAWEI CLOUD](data-space-on-huawei-cloud.png)
 
 The figure above shows data space connectors on HUAWEI CLOUD integrated with other storage, analytics and intelligence services. 
 In this reference architecture, we use compute services such as 
