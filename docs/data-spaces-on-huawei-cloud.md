@@ -1,4 +1,4 @@
-# Data Spaces in HUAWEI CLOUD
+# Data Spaces on HUAWEI CLOUD
 
 ## Need for Data Spaces
 The unprecedented growth of digital economy in the past decade has lead to many new data technologies such as
